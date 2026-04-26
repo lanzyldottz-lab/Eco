@@ -1,0 +1,4 @@
+worlds:
+  overworld: true
+  nether: true
+  end: true

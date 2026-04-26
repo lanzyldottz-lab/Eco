@@ -1,0 +1,10 @@
+name: EcoControl
+version: 1.0
+main: me.ecocontrol.Main
+api-version: 1.20
+
+commands:
+  ecogui:
+    description: Open GUI
+  reload:
+    description: Reload config
